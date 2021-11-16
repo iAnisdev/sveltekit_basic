@@ -1,6 +1,5 @@
 <script context="module">
     export async function load(ctx){
-        console.log("context " , ctx)
 
         return {
 
