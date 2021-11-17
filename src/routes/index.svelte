@@ -1,15 +1,17 @@
 <script context="module">
-    export async function load(ctx){
+    export async function load({ page, fetch, session, stuff }){
+
 
         return {
-
         }
     }
+
 
 </script>
 
 <script lang="ts">
     let name: string = 'HomePage'
+
 </script>
 
 <div>

@@ -80,11 +80,6 @@ export async function load(ctx){
                     resume_back_end_developer.pdf
                   </span>
                 </div>
-                <div class="ml-4 flex-shrink-0">
-                  <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">
-                    Download
-                  </a>
-                </div>
               </li>
               <li class="pl-3 pr-4 py-3 flex items-center justify-between text-sm">
                 <div class="w-0 flex-1 flex items-center">
@@ -95,11 +90,6 @@ export async function load(ctx){
                   <span class="ml-2 flex-1 w-0 truncate">
                     coverletter_back_end_developer.pdf
                   </span>
-                </div>
-                <div class="ml-4 flex-shrink-0">
-                  <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">
-                    Download
-                  </a>
                 </div>
               </li>
             </ul>
